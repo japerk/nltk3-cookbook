@@ -1,0 +1,13 @@
+NLTK>=3.0a4
+pyenchant>=1.6.5
+lockfile>=0.9.1
+numpy>=1.8.0
+scipy>=0.13.0
+scikit-learn>=0.14.1
+execnet>=1.1
+pymongo>=2.6.3
+redis>=2.8.0
+lxml>=3.2.3
+beautifulsoup4>=4.3.2
+python-dateutil>=2.0
+charade>=1.0.3
