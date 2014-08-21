@@ -1,0 +1,10 @@
+Mr. NNP B-NP
+Meador NNP I-NP
+had VBD B-VP
+been VBN I-VP
+executive JJ B-NP
+vice NN I-NP
+president NN I-NP
+of IN B-PP
+Balcor NNP B-NP
+. . O

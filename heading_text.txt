@@ -1,0 +1,7 @@
+A simple heading
+
+Here is the actual text for the corpus.
+
+Paragraphs are split by blanklines.
+
+This is the 3rd paragraph.
